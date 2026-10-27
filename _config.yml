@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Giovanny Aranda                                
 your_link                                 :                     
 your_city                                 : Madrid                                
-email_address                             : 
+email_address                             : garanda21@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : redo
 
   - title                                 : Dark mode
-    description                           : A native dark mode experience use it automatically starting iOS 13.
+    description                           : Automatically follows the macOS light or dark appearance.
     fontawesome_icon_name                 : moon
      
 

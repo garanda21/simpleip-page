@@ -4,78 +4,36 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-Feb 18, 2022
-
 # Privacy Policy
-Simply IP ("us", "we", or "our") operates the Simply IP mobile application (the "Service").
 
-**Please note:** We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+Last updated: October 27, 2026
 
-<br>
+Simply IP is a macOS app developed by Giovanny Aranda. This policy describes how the app handles network information and how to contact the developer about privacy.
 
-## 1.0 Information We Collect
-When you use the contact option within the application (If any) we collect different types of information for various purposes to provide and improve our Service to you.
+## Information shown and stored on your Mac
 
-### 1.1 Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+Simply IP displays your public IP address and information about network interfaces on your Mac, such as private IP addresses and MAC addresses. Where available, it also displays an approximate location associated with the public IP address.
 
-- Email address.
+The app stores its preferences and its IP history on your Mac. History can include IP addresses, approximate location details, last-seen times, and labels you add. You can remove individual history entries or clear the history and its labels from within the app. Your system and backup settings may affect copies stored in backups.
 
-### 1.2 Usage Data 
-Application do not collect any kind of personal information or device information.
+## Connections to external services
 
-<br>
+To obtain your public IP address, the app makes HTTPS requests to external IP lookup services. These services receive the connection and can see the source IP address and other technical request information. Depending on the app version and availability, the services contacted may include ipify, SeeIP, Amazon Web Services, icanhazip, ifconfig.me, and IPQuery.
 
-## 2.0 Use of Data
-If in the future Simply IP will collect information, it will be for various purposes:
+To look up an approximate location, the app may send the public IP address to IPQuery or SeeIP. It may also query MyIP, which returns information about the IP address making the request. Providers may process and retain request information under their own policies. The app cannot control those providers' retention periods, processing locations, or subsequent use of information.
 
-- To provide and maintain the Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer care and support
-- To provide analysis or valuable information so that we can improve the Service
-- To monitor the usage of the Service
-- To detect, prevent and address technical issues
+The app does not send the local history or your labels to these lookup providers. It does not contain an advertising or analytics SDK. The developer does not operate a server that receives the app's IP lookup history.
 
-## 3.0 Transfer Of Data
-Your information, including Personal Data, never be transferred to computers located outside of your state, province, country or other governmental.
+If you choose to open a location in Maps, the app opens Apple Maps. Apple's handling of that interaction is subject to Apple's privacy information.
 
-All the information loaded into the application remains locally on your device
+## Notifications and login
 
-<br>
+If enabled, notifications about public IP changes are delivered through macOS. You can change notification permission in macOS settings. You can also choose whether the app starts at login.
 
-## 4.0 Disclosure Of Data
-### 4.1 Legal Requirements
-Simply IP may disclose your Personal Data in the good faith belief that such action is necessary to:
+## Contact and requests
 
-- To comply with a legal obligation
-- To protect and defend the rights or property of Simply IP
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+For questions about Simply IP, this policy, or a privacy-related request, contact Giovanny Aranda at [garanda21@gmail.com](mailto:garanda21@gmail.com). Information you send in an email is used to respond to your request.
 
-<br>
+## Changes
 
-## 5.0 Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to mantain all your data hosted on your device to protect your Personal Data, we cannot guarantee its absolute security.
-
-## 6.0 Service Providers
-No third party companies or individuals are used.
-
-## 7.0 Links To Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## 8.0 Children's Privacy
-Our Service does not address anyone under the age of 18 ("Children").
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
-
-## 9.0 Changes To This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Updates to this policy will be published on this page with a revised date.
